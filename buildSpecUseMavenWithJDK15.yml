@@ -25,4 +25,4 @@ steps:
 outputArtifacts:
   - name: OUTPUT
     type: BINARY
-    location: target/hello-dev-1.0-SNAPSHOT.jar
+    location: target/hello-dev-1.1-SNAPSHOT.jar
